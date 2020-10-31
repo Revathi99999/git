@@ -1,5 +1,12 @@
 nmcskjdpofiwoperlmew
 
+<<<<<<< HEAD
 soft reset testing
 
 testing starts
+=======
+
+-- sprint-1 started
+
+branching test
+>>>>>>> sprint-1
